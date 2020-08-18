@@ -540,7 +540,7 @@ a.sms-primary:hover, .sms-primary:active {
 .piano-bar {
   min-height: 75px;
   height: 75px;
-  background-image: url(/assets/img/flat-piano.gif);
+  background-image: url(/sms-preview/assets/img/flat-piano.gif);
   background-repeat: repeat-x;
   background-size: auto 75px;
   border-bottom: 1px solid #6700AD;
