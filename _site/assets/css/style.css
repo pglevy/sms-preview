@@ -528,11 +528,13 @@ a:hover {
 a.sms-primary {
   background-color: #6700AD;
   color: white;
-  text-decoration: none; }
+  text-decoration: none;
+  -webkit-appearance: none; }
 
 a.sms-primary:hover, .sms-primary:active {
   background-color: #4C1161;
-  color: white; }
+  color: white;
+  -webkit-appearance: none; }
 
 .card {
   opacity: .92; }
